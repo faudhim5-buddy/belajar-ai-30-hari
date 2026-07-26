@@ -8,13 +8,13 @@ Dokumentasi perjalanan belajar Ai dari nol selama 30 hari.
 ## Apa yang dipeljari
 
 ### Minggu 1 : Fondasi Python
-- Variabel, tipe data, kondisi, perulanagan/looping, fungsi
+- Variabel, tipe data, kondisi, perulangan/looping, fungsi
 - Dictionary dan list of dictionary
 - Mini proyek: Sistem cek nilai siswa
 
 ### Minggu 2 : Library Data
 - Numpy unutuk komputasi numerik
-- Pnadas untuk pengelolaan data
+- Pandas untuk pengelolaan data
 - Matplotlib unutk visualisasi
 - Membaca dan membersihkan file CSV
 

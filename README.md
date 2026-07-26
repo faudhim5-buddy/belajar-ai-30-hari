@@ -1,5 +1,17 @@
-# belajar-ai-30-hari
-Hasil progresku setelah belajar ai dari nol selama 30 hari
+## Tentang Proyek Ini
+
+Repository ini adalah dokumentasi perjalanan belajar AI saya dari nol 
+selama 30 hari. Saya bukan berlatar belakang IT — tapi saya percaya 
+siapapun bisa belajar AI kalau punya kemauan dan panduan yang tepat.
+
+Semoga repository ini bisa jadi bukti dan inspirasi bahwa AI bukan 
+hanya untuk orang IT.
+
+## Profil Saya
+- Latar belakang: non-IT
+- Durasi belajar: 30 hari
+- Tools: Python, Google Colab (gratis, tanpa instalasi)
+- Mulai dari: tidak tahu Python sama sekali
 
 # Belajar AI 30 Hari
 
